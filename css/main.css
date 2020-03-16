@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+body {
+	font-family: helvetica, arial, sans-serif;
+	font-size: 18px;
+	font-weight: 400px;
+}
+.heading {
+	font-family: 'Rye', cursive;
+	font-size: 100px;
+	line-height: 100px;
+	font-weight: 2;
+	color: #52ACC9;
+	text-align: center;
+}
+
+.lightbox {
+  display: none;
+  background-color: rgba(0, 0, 0, 0.7);
+  position: absolute;
+  top:0;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+  color: white;
+  font-weight: 600;
+  font-size: 36px;
+  letter-spacing: 1px;
+  margin-top: 350px;
+}
+
+
+.close{
+  color: white;
+  display: block;
+  float: right;
+  padding-right: 100px;
+  font-size: 30px;
+
+}
+
+.show-lightbox {
+  display: block;
+}
+
+.main {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	text-align: center;
+}
+
+.img {
+	margin: 20px;
+	width: 350px;
+	border-right: solid 1px #666;
+}
