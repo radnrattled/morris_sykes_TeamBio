@@ -7,7 +7,8 @@ let teamButtons = document.querySelectorAll('.button')
   titleChange = document.querySelector('h2')
 
 const teamData = [
-["Megan",`Hi I'm Megan`],
+["Megan",`Hi I'm Megan. I'm a 25 year old artist, illustrator and poet from London, On. I have travelled all of
+North America with The Worlds Biggest big top circus and I don't have a tailbone. I hope to go into 3D motion design.`],
 ["Claire",`Hi I'm Claire. I'm 25 years old and grew up in the middle of nowhere, Ontario.
           I'm currently enrolled in Fanshawe's IDP program. In my free time I collect vintage clothing, 
           endulge in photography and watch black & white movies.`],
