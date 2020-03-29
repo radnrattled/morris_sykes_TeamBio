@@ -53,5 +53,10 @@ body {
 .img {
 	margin: 20px;
 	width: 350px;
-	border-right: solid 1px #666;
+	border: solid 1px #666;
+	padding: 10px;
+}
+
+.img:hover {
+	border: solid 3px #52ACC9;
 }
