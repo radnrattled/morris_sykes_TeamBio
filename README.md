@@ -1,6 +1,6 @@
 # Team Bio
 
-Team Bio page with a responsive scaffold.
+Team Bio page.
 
 
 ## Built With
@@ -21,4 +21,3 @@ Team Bio page with a responsive scaffold.
 
 * Prof. Trevor Van Rys for all his knowledge and wisdom.
 * Prof. Dayna Puspoky for her intelligence and patience.
-* 
