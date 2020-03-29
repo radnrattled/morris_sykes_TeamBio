@@ -8,7 +8,9 @@ let teamButtons = document.querySelectorAll('.button')
 
 const teamData = [
 ["Megan",`Hi I'm Megan`],
-["Claire",`Hi I'm Claire`],
+["Claire",`Hi I'm Claire. I'm 25 years old and grew up in the middle of nowhere, Ontario.
+          I'm currently enrolled in Fanshawe's IDP program. In my free time I collect vintage clothing, 
+          endulge in photography and watch black & white movies.`],
 ];
 
 titleData = [
